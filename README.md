@@ -1,4 +1,4 @@
-Redux Toolkit Project
+<h1>Redux Toolkit Project</h1>
 This project uses Redux Toolkit for state management in a React application. Redux Toolkit simplifies the process of writing Redux logic, provides good defaults, and addresses common pain points such as boilerplate code.
 
 Features
