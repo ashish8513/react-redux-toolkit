@@ -5,7 +5,7 @@ import Todos from "./components/Todos";
 function App() {
   return (
     <>
-      <h1 className="  text-2xl font-bold text-center mt-6 mb-4">Redux toolKit</h1>
+      <h1 className="  text-2xl font-bold text-center mt-6 mb-4">Ashish Redux toolKit</h1>
 
       <AddTodo/>
       <Todos/>
