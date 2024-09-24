@@ -14,3 +14,4 @@ This project follows a typical Redux Toolkit structure, which includes:
 store.js: The main Redux store configuration.
 slices/: Folder containing Redux slices, which define individual pieces of state and reducers.
 features/: Components that are connected to Redux slices for state management.
+hi ashish ,
